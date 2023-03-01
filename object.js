@@ -8,3 +8,5 @@ var myComputer = {
 console.log(myComputer);
 myComputer.price = 78000;
 console.log(myComputer.price);
+
+
